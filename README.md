@@ -7,4 +7,6 @@
 
 ### Assesing Missing Data:  
 
+### Selection and Re-encoding of Features:
+
 
