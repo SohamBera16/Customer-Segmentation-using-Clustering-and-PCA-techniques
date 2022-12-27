@@ -19,4 +19,6 @@
 
 ## Clustering applied on the general demographic data and the company customer data:
 
+## Results:
+
 
