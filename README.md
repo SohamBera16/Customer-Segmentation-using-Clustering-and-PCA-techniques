@@ -13,6 +13,6 @@
 
 ### Applying feature scaling:
 
-### Performing Dimensionality
+### Performing Dimensionality Reduction:
 
 
