@@ -15,4 +15,6 @@
 
 ### Performing Dimensionality Reduction:
 
+### Interpreting Principle Components:
+
 
