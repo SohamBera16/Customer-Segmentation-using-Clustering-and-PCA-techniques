@@ -11,4 +11,6 @@
 
 ## Feature Transformation steps:
 
+### Apply feature scaling:
+
 
