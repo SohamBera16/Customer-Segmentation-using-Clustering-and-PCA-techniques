@@ -17,4 +17,6 @@
 
 ### Interpreting Principle Components:
 
+## Clustering applied on the general demographic data 
+
 
