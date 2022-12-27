@@ -11,6 +11,8 @@
 
 ## Feature Transformation steps:
 
-### Apply feature scaling:
+### Applying feature scaling:
+
+### Performing Dimensionality
 
 
