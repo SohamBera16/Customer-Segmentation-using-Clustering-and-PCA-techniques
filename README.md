@@ -15,7 +15,7 @@ There are four files associated with this project:
 ### Assesing Missing Data:  
 
 #### Step 1.1.1: Convert Missing Value Codes to NaNs
-The fourth column of the feature attributes summary (loaded in above as feat_info) documents the codes from the data dictionary that indicate missing or unknown data. While the file encodes this as a list (e.g. [-1,0]), this will get read in as a string object. Hence, the data has been converted so that it matches a 'missing' or 'unknown' value code into a numpy NaN value. You might want to see how much data takes on a 'missing' or 'unknown' code, and how much data is naturally missing, as a point of interest.
+The fourth column of the feature attributes summary (loaded in above as feat_info) documents the codes from the data dictionary that indicate missing or unknown data. While the file encodes this as a list (e.g. [-1,0]), this will get read in as a string object. Hence, the data has been converted so that it matches a 'missing' or 'unknown' value code into a numpy NaN value. Then, I observed how much data takes on a 'missing' or 'unknown' code, and how much data is naturally missing, as a point of interest.
 
 ### Selection and Re-encoding of Features:
 
