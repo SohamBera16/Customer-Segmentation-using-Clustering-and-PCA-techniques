@@ -2,6 +2,7 @@
 
 
 ## Data Understanding 
+There are four 
 
 ## Data Preprocessing
 
