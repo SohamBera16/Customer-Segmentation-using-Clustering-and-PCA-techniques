@@ -4,6 +4,7 @@
 ## Data Understanding 
 There are four files associated with this project: 
 - Udacity_AZDIAS_Subset.csv: Demographics data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+- Udacity_CUSTOMERS_Subset.csv: Demographics data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
 
 ## Data Preprocessing
 
