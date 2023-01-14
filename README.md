@@ -2,7 +2,7 @@
 
 
 ## Data Understanding 
-There are four files associated 
+There are four files associated with this project: 
 
 ## Data Preprocessing
 
