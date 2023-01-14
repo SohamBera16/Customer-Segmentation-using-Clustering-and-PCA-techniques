@@ -2,7 +2,7 @@
 
 
 ## Data Understanding 
-There are four 
+There are four files associated 
 
 ## Data Preprocessing
 
