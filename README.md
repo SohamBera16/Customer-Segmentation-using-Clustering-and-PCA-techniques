@@ -15,7 +15,7 @@ There are four files associated with this project:
 ### Assesing Missing Data:  
 
 #### Step 1.1.1: Convert Missing Value Codes to NaNs
-
+The fourth column of the feature attributes summary (loaded in above as feat_info) documents the codes from the data dictionary that indicate missing or unknown data. While the file encodes this as a list (e.g. [-1,0]), this will get read in as a string object. 
 
 ### Selection and Re-encoding of Features:
 
