@@ -18,7 +18,7 @@ There are four files associated with this project:
 The fourth column of the feature attributes summary (loaded in above as feat_info) documents the codes from the data dictionary that indicate missing or unknown data. While the file encodes this as a list (e.g. [-1,0]), this will get read in as a string object. Hence, the data has been converted so that it matches a 'missing' or 'unknown' value code into a numpy NaN value. Then, I observed how much data takes on a 'missing' or 'unknown' code, and how much data is naturally missing, as a point of interest.
 
 #### Step 2: Assessing missing data in each column 
-In order to inspect how much missing data is present in each column, .
+In order to inspect how much missing data is present in each column, as there are a few columns that are outliers in terms of the proportion of values that are missing, 
 
 ### Selection and Re-encoding of Features:
 
