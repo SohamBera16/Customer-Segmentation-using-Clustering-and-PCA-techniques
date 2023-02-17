@@ -21,6 +21,7 @@ The fourth column of the feature attributes summary (loaded in above as feat_inf
 In order to inspect how much missing data is present in each column, as there are a few columns that are outliers in terms of the proportion of values that are missing, we try to find, identify and document these columns. While some of these columns might have justifications for keeping or re-encoding the data, for this project we decide to remove them from the dataframe for simplicity of analysis. 
 
 #### Step 3: Assesing missing data in each row
+In order to find out which rows are having missing values and whether to keep them for analysis or remove them, we divide the data into two subsets: one for data points that are above some threshold for missing values, and a second subset for points below that threshold.
 
 ### Selection and Re-encoding of Features:
 
