@@ -24,7 +24,7 @@ In order to inspect how much missing data is present in each column, as there ar
 In order to find out which rows are having missing values and whether to keep them for analysis or remove them, we divide the data into two subsets: one for data points that are above some threshold for missing values, and a second subset for points below that threshold. Afterwards, we continue the analysis with the part of the dataset having few or no missing values.
 
 ### Selection and Re-encoding of Features:
-Since the unsupervised learning techniques to be used will only work on data that is encoded numerically, we need to make a few encoding changes or additional assumptions to be able to make progress.
+Since the unsupervised learning techniques to be used will only work on data that is encoded numerically, we need to make a few encoding changes or additional assumptions to be able to make progress. The dataset under consideration 
 
 ## Feature Transformation steps:
 
