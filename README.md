@@ -20,7 +20,7 @@ The fourth column of the feature attributes summary (loaded in above as feat_inf
 #### Step 2: Assessing missing data in each column 
 In order to inspect how much missing data is present in each column, as there are a few columns that are outliers in terms of the proportion of values that are missing, we try to find, identify and document these columns. While some of these columns might have justifications for keeping or re-encoding the data, for this project we decide to remove them from the dataframe for simplicity of analysis. 
 
-#### Step 3: Assesing 
+#### Step 3: Assesing missing
 
 ### Selection and Re-encoding of Features:
 
