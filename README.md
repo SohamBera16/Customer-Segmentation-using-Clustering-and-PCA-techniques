@@ -32,7 +32,7 @@ Since the unsupervised learning techniques to be used will only work on data tha
 Before we apply dimensionality reduction techniques to the data, we need to perform feature scaling so that the principal component vectors are not influenced by the natural differences in scale for features. sklearn requires that data not have missing values in order for its estimators to work properly. So, before applying the scaler to your data, make sure that you've cleaned the DataFrame of the remaining missing values.
 
 ### Performing Dimensionality Reduction:
-On the scaled data, using sklearn's PCA class we apply principal component analysis (PCA) on the data, thus finding the vectors of maximal variance in the data. Then we inspect the ratio of variance explained by each principal component as well as the cumulative variance explained. Try plotting the cumulative or sequential values using matplotlib's plot() function. Based on what you find, select a value for the number of transformed features you'll retain for the clustering part of the project.
+On the scaled data, using sklearn's PCA class we apply principal component analysis (PCA) on the data, thus finding the vectors of maximal variance in the data. Then we inspect the ratio of variance explained by each principal component as well as the cumulative variance explained. The cumulative or sequential values were also plotted using matplotlib's plot() function. Based on what is ound, a value is selected for the number of transformed features to retain for the clustering part of the project.
 
 ### Interpreting Principle Components:
 
