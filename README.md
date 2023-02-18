@@ -38,6 +38,7 @@ On the scaled data, using sklearn's PCA class we apply principal component analy
 After getting the transformed principle components, we see the weight of each variable on the first few components to see if they can be interpreted in some fashion.
 
 ## Clustering applied on the general demographic data and the company customer data:
+k-means clustering is applied to the dataset and we use the average within-cluster distances from each point to their assigned cluster's centroid to decide on a number of clusters to keep.
 
 ## Results:
 
