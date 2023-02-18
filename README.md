@@ -35,7 +35,7 @@ Before we apply dimensionality reduction techniques to the data, we need to perf
 On the scaled data, using sklearn's PCA class we apply principal component analysis (PCA) on the data, thus finding the vectors of maximal variance in the data. Then we inspect the ratio of variance explained by each principal component as well as the cumulative variance explained. The cumulative or sequential values were also plotted using matplotlib's plot() function. Based on what is ound, a value is selected for the number of transformed features to retain for the clustering part of the project.
 
 ### Interpreting Principle Components:
-After 
+After getting the transformed principle components, 
 
 ## Clustering applied on the general demographic data and the company customer data:
 
