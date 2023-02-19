@@ -40,7 +40,7 @@ After getting the transformed principle components, we see the weight of each va
 ## Clustering applied on the general demographic data and the company customer data:
 To see how the data clusters in the principal components space, k-means clustering is applied to the dataset and we use the average within-cluster distances from each point to their assigned cluster's centroid to decide on a number of clusters to keep.
 
-Now that we have clusters and cluster centers for the general population, it's time to see how the customer data maps on to those clusters. In 
+Now that we have clusters and cluster centers for the general population, it's time to see how the customer data maps on to those clusters. In the last step of the project, 
 
 ## Results:
 
