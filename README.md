@@ -43,5 +43,5 @@ To see how the data clusters in the principal components space, k-means clusteri
 Now that we have clusters and cluster centers for the general population, it's time to see how the customer data maps on to those clusters. In the last step of the project, how the general population fits apply to the customer data has been interpreted. 
 
 ## Results:
-
+From the clustering analysis, 
 
