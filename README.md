@@ -47,3 +47,5 @@ From the clustering analysis, it can be seen that - the target population for th
 
 If we try to analyze the characteristics of the population that highly differs between the overrepresented and underrepresented clusters, we can see that -
 
+1. ALTERSKATEGORIE_GROB - the company is really popular in the age group of 45-60 years. On the other hand, comparatively younger population with less than or slightly older than 30 years of age are not frequent purchasers of the company.
+
