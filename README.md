@@ -45,5 +45,5 @@ Now that we have clusters and cluster centers for the general population, it's t
 ## Results:
 From the clustering analysis, it can be seen that - the target population for the company should be cluster 4 as it is the most overrepresented cluster in the dataset. Whereas, the customer groups that the company should not think about targeting are clusters - 2, 3, or 10.
 
-In we try to analyze the characteristics of the population that highly differs between the overrepresented and underrepresented clusters, we can see that -
+If we try to analyze the characteristics of the population that highly differs between the overrepresented and underrepresented clusters, we can see that -
 
