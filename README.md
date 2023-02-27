@@ -22,6 +22,8 @@ In order to inspect how much missing data is present in each column, as there ar
 
 ![figure_1](https://github.com/SohamBera16/Customer-Segmentation-using-Clustering-and-PCA-techniques/blob/main/clustering_1.png)
 
+From the histogram, it could be observed that the columns including more than 20 percent of the total missing values in the dataset behaved as outliers for this use case. Hence, such columns have been removed for a better representation of the underlying distribution of the dataset.
+
 #### Step 3: Assesing missing data in each row
 In order to find out which rows are having missing values and whether to keep them for analysis or remove them, we divide the data into two subsets: one for data points that are above some threshold for missing values, and a second subset for points below that threshold. Afterwards, we continue the analysis with the part of the dataset having few or no missing values.
 
