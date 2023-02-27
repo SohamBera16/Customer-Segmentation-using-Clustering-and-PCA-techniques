@@ -27,7 +27,7 @@ From the histogram, it could be observed that the columns including more than 20
 #### Step 3: Assesing missing data in each row
 In order to find out which rows are having missing values and whether to keep them for analysis or remove them, we divide the data into two subsets: one for data points that are above some threshold for missing values, and a second subset for points below that threshold. Afterwards, we continue the analysis with the part of the dataset having few or no missing values.
 
-![figure_2](https://github.com/SohamBera16/Customer-Segmentation-using-Clustering-and-PCA-techniques/blob/main/clustering_2.png)
+![figure_2]()
 
 ### Selection and Re-encoding of Features:
 Since the unsupervised learning techniques to be used will only work on data that is encoded numerically, we need to make a few encoding changes or additional assumptions to be able to make progress. For the dataset under consideration, special handling is necessary for particularly two variable types: categorical, and 'mixed'.
