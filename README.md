@@ -59,7 +59,7 @@ From the clustering analysis, it can be seen that - the target population for th
 
 If we try to analyze the characteristics of the population that highly differs between the overrepresented and underrepresented clusters, we can see that -
 
-1. *ALTERSKATEGORIE_GROB* - the company is really popular in the age group of 45-60 years. On the other hand, comparatively younger population with less than or slightly older than 30 years of age are not frequent purchasers of the company.
+1. ALTERSKATEGORIE_GROB - the company is really popular in the age group of 45-60 years. On the other hand, comparatively younger population with less than or slightly older than 30 years of age are not frequent purchasers of the company.
 2. *FINANZ_SPARER* - people who are high or very high money savers tend to order from the company a lot more than people who are low money savers.
 3. *SEMIO_REL* - people with high religious affinity are more likely to be interested in the company's offerings rather than people who have comparatively less religious personality.
 
