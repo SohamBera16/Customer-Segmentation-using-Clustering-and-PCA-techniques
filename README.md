@@ -1,7 +1,7 @@
 # Customer-Segmentation-using-Clustering-and-PCA-techniques
 
 ## Project Objective
-In this project, the general population is segmented into groups with similar demographic properties through K-means clustering. 
+In this project, the general population is segmented into groups with similar demographic properties through K-means clustering. Then, I have examined how the people in the company's customers dataset fit into those created clusters. 
 
 ## Data Understanding 
 There are four files associated with this project: 
